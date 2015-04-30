@@ -13,6 +13,8 @@
 		52E0935E1AF178CD002CC565 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52E0935D1AF178CD002CC565 /* Images.xcassets */; };
 		52E093611AF178CD002CC565 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52E0935F1AF178CD002CC565 /* LaunchScreen.xib */; };
 		52E0936D1AF178CD002CC565 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E0936C1AF178CD002CC565 /* PostcardTests.swift */; };
+		52E093771AF183FE002CC565 /* IMG_3571.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52E093761AF183FE002CC565 /* IMG_3571.jpg */; };
+		52E093791AF26548002CC565 /* 1507739_811223935629117_4967605142719588451_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52E093781AF26548002CC565 /* 1507739_811223935629117_4967605142719588451_n.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		52E093661AF178CD002CC565 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52E0936B1AF178CD002CC565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52E0936C1AF178CD002CC565 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		52E093761AF183FE002CC565 /* IMG_3571.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3571.jpg; sourceTree = "<group>"; };
+		52E093781AF26548002CC565 /* 1507739_811223935629117_4967605142719588451_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1507739_811223935629117_4967605142719588451_n.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		52E093541AF178CD002CC565 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				52E093781AF26548002CC565 /* 1507739_811223935629117_4967605142719588451_n.jpg */,
+				52E093761AF183FE002CC565 /* IMG_3571.jpg */,
 				52E093551AF178CD002CC565 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +198,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52E093791AF26548002CC565 /* 1507739_811223935629117_4967605142719588451_n.jpg in Resources */,
 				52E0935C1AF178CD002CC565 /* Main.storyboard in Resources */,
 				52E093611AF178CD002CC565 /* LaunchScreen.xib in Resources */,
 				52E0935E1AF178CD002CC565 /* Images.xcassets in Resources */,
+				52E093771AF183FE002CC565 /* IMG_3571.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
